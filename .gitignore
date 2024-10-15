@@ -1,0 +1,5 @@
+*.djvu
+*.ipynb
+заметки.txt
+
+__pycache__/
